@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:visibility="invisible"
+        android:id="@+id/lottie_error_view_prompt_dialog"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/error_anim"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/image_in_prompt_dialog" />
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottie_warning_view_prompt_dialog"
+        android:visibility="gone"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/warning_anim"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/image_in_prompt_dialog" />
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottie_info_view_prompt_dialog"
+        android:visibility="gone"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/image_in_prompt_dialog" />
+
+    <TextView
+        android:padding="5dp"
+        android:gravity="center"
+        android:id="@+id/information_text_view_prompt_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/lottie_error_view_prompt_dialog"
+        android:textSize="22sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dismiss_btn_prompt_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/information_text_view_prompt_dialog"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:text="@string/dismiss"
+        android:textColor="@color/teal_200"
+        android:textSize="16sp"
+        android:textAllCaps="false"/>
+
+</RelativeLayout>

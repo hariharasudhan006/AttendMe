@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable-v23/dash_card_background.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/arrow_back.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/back_bt.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/background_camera_overlay_circle.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/face_registration_bottom_sheet.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/forgot_password_background.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/login_card_design.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/login_screen_continue_bt.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/login_screen_options_bt.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/my_attedance_card.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/please_wait_dialog_background.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/texture_view_background.xml" value="0.22962962962962963" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/drawable/texture_view_bg.xml" value="0.22962962962962963" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_camera.xml" value="0.2359375" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_camera_demo.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_dash_board.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_face_registeration.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_face_registration.xml" value="0.2359375" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_facial_image_getter.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_more_options.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_my_attendance.xml" value="0.2359375" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_no_internet.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_register_institution.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/admin_name_password_getter.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/admin_reenter_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/face_registration_progress.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/forgot_password_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/forgot_password_email_getter.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/forgot_password_success_prompt.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/information_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/institution_location_getter.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/institution_name_getter.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/login_page_main.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/my_attendance_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/my_attendance_list_view_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/my_attendance_no_attendance_data.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/please_wait_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Harihara sudhan/AndroidStudioProjects/AttendMe/app/src/main/res/layout/start_button_face_registration.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
